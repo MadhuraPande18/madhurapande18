@@ -48,7 +48,7 @@ motto       : "Build. Innovate. Automate. Repeat." 🚀🔥
 - 💡 Passionate about solving real-world problems with clean, scalable code
 - 🏆 Certified in **Java Full Stack**, **AI Engineering**, and **SQL**
 - 🎤 Second Runner-Up at **Toastmasters HSC Public Speaking Contest**
-- 📫 Reach me at **madhurapande11@gmail.com**
+- 📫 Reach me at **madhurapande18@gmail.com**
 
 ---
 
@@ -126,7 +126,7 @@ motto       : "Build. Innovate. Automate. Repeat." 🚀🔥
 - 🤖 **AI Engineer Certification** — OneRoadmap
 - 🗄️ **SQL Certification** — OneRoadmap
 - 🧩 **200+ DSA Problems Solved** on LeetCode (Arrays, Trees, Graphs, DP)
-- 🎤 **Second Runner-Up** — HSC Public Speaking Contest, Toastmasters International
+- 🎤 **Winner** — HSC Public Speaking Contest, Toastmasters International
 - 💬 **Certified Peer Counsellor** — Active Listening & Conflict Resolution
 
 ---
